@@ -19,6 +19,11 @@
 - Optimize for SEO to enhance visibility.
 - Ensure high security and performance.
 
+### Project Links
+- Figma file: https://www.figma.com/design/NNPdiNOfJKjTqvE7apPNHw/David's-Portfolio?node-id=220-633&t=IwftxSq5WAEtnqes-1
+- Notion link: https://www.notion.so/Obahnet-Solutions-d5a470e07ce3482ea61014c661b28a5d
+
+
 ## Modules
 
 ### 1. Home Page
